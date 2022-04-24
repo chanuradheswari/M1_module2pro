@@ -1,1 +1,15 @@
 final report
+
+Languages: C
+
+IDEs and IDPs: Arduino IDE, Atmel Studio 7.0
+
+SPICE software: TINA-TI
+
+Schematic capture software: Altium Designer, TINA-TI
+
+Microcontrollers: Arduino UNO (ATmega328P-PU) as controller and Arduino Nano (ATmega328P) for testing
+
+Low pass filter designer: http://sim.okawa-denshi.jp/en/CRtool.php
+
+Isolation bootstrap calculator: https://www.skyworksinc.com/tools/bootstrap%20calculator
